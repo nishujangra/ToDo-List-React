@@ -53,6 +53,7 @@ body {
   color: hsla(260, 2%, 25%, 0.7);
   width: 70%;
   margin-bottom: 20px;
+  margin-right: 0.5rem;
 }
 
 button {
@@ -76,4 +77,8 @@ li {
   text-align: left;
   position: relative;
   padding: 0.5rem;
+}
+
+li:hover{
+  cursor: pointer;
 }
