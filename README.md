@@ -2,7 +2,7 @@
 
 This is a simple Todo List application built using React. It allows users to create, manage, and track their tasks in a convenient and organized manner.
 
-![Todo List App Screenshot](screenshot.png)
+![Todo List App Screenshot](screenshot.png){: width="50px"}
 
 ## Table of Contents
 
